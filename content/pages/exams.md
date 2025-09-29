@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the two quizzes from the course along with a quiz
   review sheet.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

@@ -4,6 +4,8 @@ description: Problem set solutions.
 file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/fcbf53caf88f379809d99a3795d65b41_st07_ps4solution.pdf
 file_size: 150883
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

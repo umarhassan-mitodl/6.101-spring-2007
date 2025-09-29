@@ -4,6 +4,8 @@ description: This resource contains problems on thevenin equivalent.
 file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/79256441f596b072e2df4a6bbac16a57_st07_problemset_4.pdf
 file_size: 13151
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

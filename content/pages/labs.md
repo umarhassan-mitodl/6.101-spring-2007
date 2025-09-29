@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on laboratory assignments, laboratory
   guidelines, and lab kits.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 ocw_type: CourseSection
@@ -67,7 +69,7 @@ RF transmission and reception; Q and bandwidth of tuned circuits; AM (diode) det
 
 Log amplifier; rectifier diodes and rectifier rower supplies; Zener diodes; bipolar and FET characteristics using the Tektronix curve tracer
 
-Please also see Kruger, Anton. "{{% resource_link "e8529277-deb8-481c-9ef0-93567263fd55" "Reverse Recovery Time" %}}." June 16, 1999.
+Please also see Kruger, Anton. "[Reverse Recovery Time](http://www.maximintegrated.com/glossary/definitions.mvp/term/Reverse%20Recovery%20Time/gpk/1015)." June 16, 1999.
 
 
 {{< tdclose >}}

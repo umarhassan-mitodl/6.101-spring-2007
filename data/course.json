@@ -23,6 +23,7 @@
     "website": "6-101-introductory-analog-electronics-laboratory-spring-2007"
   },
   "course_title": "Introductory Analog Electronics Laboratory",
+  "hide_download": true,
   "course_description": "6.101 is an introductory experimental laboratory that explores the design, construction, and debugging of analog electronic circuits. Lectures and six laboratory projects investigate the performance characteristics of diodes, transistors, JFETs, and op-amps, including the construction of a small audio amplifier and preamplifier. Seven weeks are devoted to the design and implementation, and written and oral presentation of a project in an environment similar to that of engineering design teams in industry. The course provides opportunity to simulate real-world problems and solutions that involve trade offs and the use of engineering judgment. Engineers from local analog engineering companies come to campus to help students with their design projects.\n",
   "department_numbers": [
     "6"
@@ -33,6 +34,7 @@
     "content": "a63a980d-c380-1a1a-2a87-09e9f1ca1aee",
     "website": "6-101-introductory-analog-electronics-laboratory-spring-2007"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams",

@@ -4,6 +4,8 @@ description: The second of two quizzes for the course.
 file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/b595908c510a4a440751740ef9631ba1_quiz2.pdf
 file_size: 145612
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
