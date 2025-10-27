@@ -5,8 +5,6 @@ description: This resource contains solution to the problems on the transistor v
 file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/c25bbbb68dec2ef8d981d4644e3d261a_st07_ps2solutio1.pdf
 file_size: 67681
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the list of textbooks for the course and the schedule
   of readings for the lecture sessions.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
